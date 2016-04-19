@@ -9,11 +9,13 @@ Abstract The Copenhagen Interpretation of Quantum Mechanics (QM) asserts that th
 
 Abstract After various attempts we were able to show, that the notion of contextuality is infact not necessary. This was achieved by identifying another `classical property' and constructing a non-contextual toy-model, serving as a counter-example to the impossibility proof. The toy model has been generalized to a discrete but arbitrarily sized Hilbert space, consistent with all predictions of QM. Implications of violation of this `classical property' have been discussed, in particular, to the notion of non-locality.
 
-
+GIT
+--
+git push --recurse-submodules=on-demand
 
 
 CUED PhD Thesis Template
-========================
+--
 > A PhD thesis LyX template for Cambridge University Engineering Department.
 
 ## Author(s)
