@@ -71,22 +71,18 @@
 \begin_body
 
 \begin_layout declaration
+\begin_inset Note Comment
+status open
+
+\begin_layout Plain Layout
 I hereby declare that except where specific reference is made to the work
  of others, the contents of this dissertation are original and have not
  been submitted in whole or in part for consideration for any other degree
  or qualification in this, or any other University.
  This dissertation is the result of my own work and includes nothing which
  is the outcome of work done in collaboration, except where specifically
- indicated in the text.
-\end_layout
-
-\begin_layout declaration
-\begin_inset Note Comment
-status open
-
-\begin_layout Plain Layout
-To modify the guide's declaration, goto Thesis and then Document->Settings->Prea
-mble and use your brain :)
+ indicated in the text.||||To modify the guide's declaration, goto Thesis
+ and then Document->Settings->Preamble and use your brain :)
 \end_layout
 
 \end_inset

@@ -509,7 +509,7 @@ font in the preamble.tex file by specifying `customfont' in the class options}
 \newcommand{\crest}[1]{\renewcommand{\@crest}{#1}}
 
 % Submission Text
-\newcommand{\submissiontext}{This dissertation is submitted for the degree of }
+\newcommand{\submissiontext}{A dissertation submitted for the partial fulfilment of }
 
 
 % keywords (These keywords will appear in the PDF meta-information
@@ -614,6 +614,10 @@ font in the preamble.tex file by specifying `customfont' in the class options}
 \thispagestyle{empty}
 }
 {
+
+{
+The work presented in this dissertation has been carried out by me under the guidance of \@guide{}, at the \@university{}. This work has not been submitted in part or in full for a degree, a diploma, or a fellowship to any other university or institute. Wherever contributions of others are involved, every effort has been made to indicate that clearly. Due acknowledgement of collaborative research and discussions has been made. This thesis is a bonafide record of original work done by me and all sources listed within have been detailed in the bibliography.
+}
 
 {
 \flushright
