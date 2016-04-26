@@ -82,9 +82,9 @@ Rationale
 We saw in the last chapter that BM is able to explain the GHZ test.
  The paradox arises if we try to multiply values assigned to operators that
  don't commute, to obtain the value assigned to a product of such operators.
- In BM, since the operator must be provided to obtain it's value, no contradicti
-on arises, even though the results are deterministic (given all initial
- conditions).
+ In BM, since the operator must be provided to obtain its value, no contradictio
+n arises even though the results are deterministic (given all initial conditions
+).
  
 \begin_inset Note Comment
 status collapsed
@@ -97,15 +97,15 @@ Effectively then, at the risk of repetition, the flaw in our GHZ reasoning,
 
 \end_inset
 
-Thus, we were only able to rule out theories that treated operators like
- numbers and we find that BM is not one of them.
+Thus, we were only able to rule out the theories that treated operators
+ like numbers and we find that BM is not one of them.
  However, as we have seen in the Peres Mermin (PM) test, the operators whose
- values are multiplied, do infact commute, implying that the PM test is
+ values are multiplied do in fact commute, implying that the PM test is
  exonerated from that objection.
- And we also know that BM, atleast on the face of it, is non-contextual,
+ And we also know that BM, at least on the face of it, is non-contextual,
  viz.
- the value obtained upon the measurement of an operator, depends only on
- the state (+ hidden variables) and the operator, granted we fix our measurement
+ the value obtained by the measurement of an operator depends only on the
+ state (+ hidden variables) and the operator, granted we fix our measurement
  scheme.
  It is therefore not clear how BM is contextual, which is a notion we're
  forced to accept from the PM test.
@@ -116,11 +116,11 @@ Thus, we were only able to rule out theories that treated operators like
 \begin_layout Standard
 We also found in the previous chapter, that in BM, there's no fundamental
  difference that arises between the phase space variables and spins.
- As we saw, the value of momentum observed, depends on the systematics of
+ As we saw, the value of momentum observed depends on the systematics of
  the measurement process, just as the outcome of a spin measurement using
  an SG setup (as was discussed in the first chapter).
  Therefore in what follows, attempts will be made at tackling the problem
- from whichever method, (between phase space and spins) appears more accessible.
+ from whichever method (between phase space and spins) appears more accessible.
  
 \end_layout
 
@@ -186,8 +186,7 @@ Recall from the first chapter,
 
 \end_inset
 
-and note that (a) the product of these operators along each row, yields
- 
+and note that (a) the product of these operators along each row yields 
 \begin_inset Formula $\hat{A}$
 \end_inset
 
@@ -213,7 +212,7 @@ We will now try to assign values to
 \begin_inset Formula $\hat{H}_{ij}$
 \end_inset
 
- and only multiply values assigned to commuting observables, to obtain the
+ and only multiply values assigned to commuting observables to obtain the
  value of 
 \begin_inset Formula $\hat{A},\hat{B},\hat{C}$
 \end_inset
@@ -275,7 +274,7 @@ reference "sec:Determinism-The-GHZ"
 
 .
  Let us assume that the former is true.
- At this stage then, we'd have 
+ At this stage then, we would have 
 \begin_inset Formula 
 \[
 H_{ij}\doteq\left[\begin{array}{ccc}
@@ -314,12 +313,12 @@ H_{ij}\doteq\left[\begin{array}{ccc}
 \pm1 & 1 & \pm1\\
 \pm1 & \pm1 & -1\\
 1 & 1 & -1
-\end{array}\right],
+\end{array}\right].
 \]
 
 \end_inset
 
-however, we have no freedom left and are forced to assign 
+However, we have no freedom left and are forced to assign 
 \begin_inset Formula $-1$
 \end_inset
 
@@ -332,7 +331,7 @@ however, we have no freedom left and are forced to assign
 \begin_inset Formula $(-1,-1,-1)$
 \end_inset
 
- case for the last row, won't resolve the issue.
+ case for the last row, will not resolve the issue.
  Thus we conclude that the assignment must be contextual (atleast the one
  corresponding to 
 \begin_inset Formula $\left|\chi_{G}\right\rangle $
@@ -358,7 +357,7 @@ name "sub:Peres-Mermin-phaseSpace"
 
 \begin_layout Standard
 The Peres Mermin situation can be, quite simply, extended to continuous
- variables, which maybe of practical interest.
+ variables, which may be of practical interest.
  Performing SG type setup in the simulation requires implementation of spins
  and appropriate magnetic field effects, and that can be surpassed with
  this construction.
@@ -405,7 +404,7 @@ key "contextualityPhaseSpace"
 \end_inset
 
 would yield the PM situation.
- To check this, note that the product along any row, is 
+ To check this, note that the product along any row is 
 \begin_inset Formula $\hat{\mathbb{I}}$
 \end_inset
 
@@ -413,15 +412,15 @@ would yield the PM situation.
 \begin_inset Formula $-\hat{\mathbb{I}}$
 \end_inset
 
-, precisely the same as the PM situation.
- The difference however, will be that the corresponding hidden variables,
+; precisely the same as the PM situation.
+ The difference however, will be that the corresponding hidden variables
  will have to be unimodular complex (viz.
  
 \begin_inset Formula $XX^{*}=1$
 \end_inset
 
-) and the values of the operators, must be deduced from their hermitian
- counterparts.
+) and the values of the operators must be deduced from their hermitian counterpa
+rts.
  One such choice of 
 \begin_inset Formula $X$
 \end_inset
@@ -451,7 +450,7 @@ Measurements in BM (II)
 Measurements have already been discussed at length in the previous chapters,
  however, we are now particularly interested in measuring spins, especially
  when there is entanglement.
- We will see how a measurement made using the Stern Gerlach like apparatus
+ We will see how a measurement made using the Stern-Gerlach like apparatus
  can yield results very different from those obtained by the Hamiltonian
  approach.
  Further, we will see how the former can get difficult to evaluate, quite
@@ -470,7 +469,7 @@ name "sub:BM-entangled-Stern-Gerlach"
 \end_layout
 
 \begin_layout Standard
-Since we have already discussed how to analyse a Stern Gerlach based measurement
+Since we have already discussed how to analyse a Stern-Gerlach based measurement
  for a single particle, let us try to explore how to analyse this for 
 \begin_inset Formula $\left|\chi\right\rangle =\left|++\right\rangle +\left|--\right\rangle /\sqrt{2}$
 \end_inset
@@ -512,7 +511,7 @@ reference "sec:Bohm's-Theory,-Bohmian"
 \end_inset
 
  for example.
- Now, we must predict the outcome, given the initial positions of the particles.
+ Now, we must predict the outcome given the initial positions of the particles.
  We then plot 
 \begin_inset Formula $P(q_{1},q_{2})=\left\langle \Psi_{S}|q_{1},q_{2}\right\rangle \left\langle q_{1},q_{2}|\Psi_{S}\right\rangle $
 \end_inset
@@ -723,7 +722,7 @@ After the interaction,
 \begin_inset Formula $2P(q_{1},q_{2})=\left|\left\langle q_{1},q_{2}|\psi_{at},\psi_{at}\right\rangle \right|^{2}+\left|\left\langle q_{1},q_{2}|\psi_{-at},\psi_{-at}\right\rangle \right|^{2}$
 \end_inset
 
-, which would yield two circles in the countour plot, one centred at 
+, which would yield two circles in the contour plot, one centred at 
 \begin_inset Formula $(at,at)$
 \end_inset
 
@@ -739,7 +738,7 @@ reference "fig:sgMeas-Entangled"
 \end_inset
 
 .
- From the symmetry of the problem, and from the fact that velocities are
+ From the symmetry of the problem and from the fact that velocities are
  single valued, we can deduce that if the particle positions were represented
  by a point inside area 
 \begin_inset Formula $I$
@@ -901,13 +900,13 @@ reference "sec:Bohm's-Theory,-Bohmian"
  However, to stress the difference, note that in the SG case, the position
  of the particle of interest itself determined whether the measurement would
  yield spin up or spin down.
- Here, position of the particle of interest, plays no role in the measurement
+ Here, the position of the particle of interest plays no role in the measurement
  scheme.
- Infact, the position of the measuring particle (which in some sense represents
+ In fact, the position of the measuring particle (which in some sense represents
  the apparatus) determines the outcome.
  Thus, even though in both cases, the result can be predicted, it is possible
  to have initial conditions such that the results of these two different
- measurement schemes, don't match.
+ measurement schemes don't match.
 \end_layout
 
 \begin_layout Subsubsection
@@ -947,8 +946,8 @@ Let the spin state of the particles be
 \begin_inset Formula $\left|\Psi_{S}(t)\right\rangle =\left|\psi_{at}\right\rangle \otimes\left|\chi\right\rangle $
 \end_inset
 
-, which from the aforesaid arguments, entails that for all initial positions
- of the measuring particle, we would get 
+, which from the aforesaid arguments entails that for all initial positions
+ of the measuring particle we would get 
 \begin_inset Formula $+1$
 \end_inset
 
@@ -966,7 +965,7 @@ GHZ Entangled Spin
 \end_layout
 
 \begin_layout Standard
-Let the spin state, now be 
+Let the spin state now be 
 \begin_inset Formula $\sqrt{2}\left|\chi\right\rangle =\left|000\right\rangle -\left|111\right\rangle $
 \end_inset
 
@@ -980,7 +979,7 @@ Let the spin state, now be
 \begin_inset Formula $\hat{A}\left|\chi\right\rangle =\left|\chi\right\rangle $
 \end_inset
 
-, it follows that after the interaction, we would have 
+, it follows that after the interaction we would have 
 \begin_inset Formula $\left|\Psi_{S}(t)\right\rangle =\left|\psi_{at}\right\rangle \otimes\left|\chi\right\rangle $
 \end_inset
 
@@ -999,7 +998,7 @@ Let the spin state, now be
 \begin_inset Formula $\sqrt{2}\left|\chi\right\rangle =\left|+\right\rangle (\left|00\right\rangle -\left|11\right\rangle )+\left|-\right\rangle (\left|00\right\rangle +\left|11\right\rangle )$
 \end_inset
 
- and now observe that the state of the complete system, after the interaction,
+ and now observe that the state of the complete system after the interaction
  would be 
 \begin_inset Formula $\sqrt{2}\left|\Psi_{S}(t)\right\rangle =\left|\psi_{at}\right\rangle \otimes\left|+\right\rangle \left(\left|00\right\rangle -\left|11\right\rangle \right)+\left|\psi_{-at}\right\rangle \otimes\left|-\right\rangle (\left|00\right\rangle +\left|11\right\rangle )$
 \end_inset
@@ -1045,7 +1044,7 @@ name "sec:Peres-Mermin-Revisited"
 \end_layout
 
 \begin_layout Standard
-With the tools for measurement sharpened, we are now in position to explicitly
+With the tools for measurement sharpened, we are now in a position to explicitly
  assign values to the Peres Mermin situation and find out precisely how
  contextuality can be reconciled with BM.
  However, before proceeding with that, we first try to carefully list the
@@ -1082,13 +1081,13 @@ According to QM, if one has a set of compatible operators, say
 \end_inset
 
  separately, in any order, and multiplying the result.
- We can arrive at a contradiction, if we make the following three assumptions
+ We can arrive at a contradiction if we make the following three assumptions
  about the HV model.
  (1) Non-contextual assignment: The value assigned to any operator, depends
  only on the operator and the state of the system (including hidden variables).
  (2) Multiplicativity: Value assigned to the product of commuting operators
  must be the product of values assigned to the commuting operators themselves.
- (3) Non Invasive: Measurement doesn't affect the remaining assignments.
+ (3) Non-Invasive: Measurement doesn't affect the remaining assignments.
 \end_layout
 
 \begin_layout Standard
@@ -1210,7 +1209,7 @@ reference "sub:HamiltonianMeasureSingle-Spin"
 
 \end_inset
 
-It is obvious that this assignment, if we assume (2), will fail to be consistent
+It is obvious that this assignment if we assume (2), will fail to be consistent
  with QM.
  However, since 
 \begin_inset Formula $\hat{R}_{i}=\mathbb{I}$
@@ -1232,7 +1231,7 @@ It is obvious that this assignment, if we assume (2), will fail to be consistent
 \begin_inset Formula $\left|\chi\right\rangle $
 \end_inset
 
- as an eigenket (infact all possible states are eigenkets).
+ as an eigenket (in fact all possible states are eigenkets).
  According to BM, the value assigned will be 
 \begin_inset Formula $+1$
 \end_inset
@@ -1248,10 +1247,10 @@ It is obvious that this assignment, if we assume (2), will fail to be consistent
 .
  We learn therefore that in BM, (2) certainly doesn't hold.
  Also, since the wavefunction collapses after a measurement, we know that
- the assignment must change in general, thus (3) also doesn't hold in BM.
+ the assignment must change, in general, thus (3) also doesn't hold in BM.
  Finally, given an operator, BM can predict the value one would get upon
  measuring it, although one needs to specify the measurement process.
- Thus we see, that (1) does infact hold in BM, granted we restrict ourselves
+ Thus, we see, that (1) does in fact hold in BM, granted we restrict ourselves
  to a fixed measurement process.
 \end_layout
 
@@ -1260,7 +1259,7 @@ Remarks
 \end_layout
 
 \begin_layout Standard
-It was realized that the GHZ determinism test is not satisfactorily explained
+It was realised that the GHZ determinism test is not satisfactorily explained
  by the non-commuting observables being treated as numbers.
  An equivalence between the GHZ and the PM test was established, in terms
  of the conclusions.
@@ -1268,7 +1267,7 @@ It was realized that the GHZ determinism test is not satisfactorily explained
  situation were sharpened.
  From the assignment, it was found that a non-contextual theory doesn't
  contradict QM, viz.
- contextuality is not necessary feature of QM.
+ contextuality is not a necessary feature of QM.
  It was found with ambivalence, that contextuality has been questioned in
  the literature 
 \begin_inset CommandInset citation
@@ -1278,7 +1277,7 @@ key "NoContextuality"
 \end_inset
 
 .
- However, the arguments used and the construction of the counterexample,
+ However, the arguments used and the construction of the counterexample
  vastly differs from those presented here.
  Our construction is considerably simpler.
 \end_layout

@@ -81,8 +81,8 @@ Overview
 \begin_layout Standard
 A course in Quantum Mechanics (QM) typically leaves the reader with a fuzzy
  view of the world.
- The founders of the subject, were able to abstract out the mathematics
- from it's implications and interpretation.
+ The founders of the subject were able to abstract out the mathematics from
+ its implications and interpretation.
  The view that the wavefunction is the most complete description of a system,
  known as the `Orthodox Copenhagen Interpretation', is among the most popular.
  Einstein and Bohm, both played an important role in challenging this belief.
@@ -101,7 +101,7 @@ key "EinsteinEPR"
  his relativity theories), then QM must be incomplete.
  By incompleteness, he meant that the results of certain experiments should
  be predictable precisely, but QM fails at doing this.
- Thus he concluded that, QM must be treated as an intermediate theory and
+ Thus, he concluded that, QM must be treated as an intermediate theory and
  that a more complete description of nature should be sought.
  We will come back to this discussion.
  
@@ -119,7 +119,7 @@ Bohm challenged this view by realizing that one can't experimentally refute
  subject.
  However, one can't refute the interpretation on grounds of inaccuracy in
  predictions.
- He therefore, aimed at, and succeeded at constructing a complete quantum
+ He, therefore, aimed at, and succeeded at constructing a complete quantum
  theory 
 \begin_inset CommandInset citation
 LatexCommand cite
@@ -183,7 +183,7 @@ key "BellExpHensen2015"
 It might appear that Bell's test shows that QM is inconsistent with BM.
  Upon looking at the details however, one can be convinced, that this is
  not the case.
- Infact, Bell was among the first few to popularize BM 
+ In fact, Bell was among the first few to popularize BM 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "BellSpeakable"
@@ -194,7 +194,7 @@ key "BellSpeakable"
 \end_layout
 
 \begin_layout Standard
-The discussion so far, is well known in the literature.
+The discussion so far is well known in the literature.
  However, certain developments which followed the said work of Bohm, again
  lead to apparent inconsistencies between BM and QM.
  These had not been satisfactorily addressed in the literature and have
@@ -229,21 +229,21 @@ key "BellOnHiddenVariables"
 
 \end_inset
 
-, Kochen, Specker 
+, Kochen & Specker 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "KochenSpecker"
 
 \end_inset
 
-, Peres and Mermin 
+, and Peres & Mermin 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Peres,Mermin"
 
 \end_inset
 
-, showed that the value an operator takes, must depend on the context in
+ showed that the value an operator takes, must depend on the context in
  which it is measured; context here refers to the complete set of compatible
  operators.
 \begin_inset Newline newline
@@ -410,7 +410,7 @@ where
 \begin_inset Formula $A$
 \end_inset
 
- had both it's position and momentum well defined, without being measured.
+ had both its position and momentum well defined, without being measured.
  QM fails to yield the answer with precision, whereas as we have shown,
  the answer was precise.
  Thus, we are forced to conclude that QM is not a complete description of
@@ -445,7 +445,7 @@ name "sec:Bell's-Theorem"
 
 \begin_layout Standard
 Bell's work addresses and satisfactorily answers Einstein's open question,
- of whether a 
+ of whether 
 \emph on
 such
 \emph default
@@ -460,11 +460,11 @@ such
 \begin_inset Formula $\hat{b}_{1},\hat{b}_{2}$
 \end_inset
 
- for observer B, which yield a 
+ for observer B, which yield 
 \begin_inset Formula $\pm1$
 \end_inset
 
- outcome.
+.
  Let 
 \begin_inset Formula $\left\langle \hat{a}_{i}\hat{b}_{j}\right\rangle $
 \end_inset
@@ -488,7 +488,7 @@ such
 status collapsed
 
 \begin_layout Plain Layout
-Infact, an argument similar to EPR can be used to show that locality entails
+In fact, an argument similar to EPR can be used to show that locality entails
  realism.
 \end_layout
 
@@ -637,7 +637,20 @@ key "Bohm1"
 
 .
  The postulates of the theory are: (a) Evolution of the wavefunction, is
- governed by Schrodinger's equation: 
+ governed by Schr
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+"o
+\end_layout
+
+\end_inset
+
+dinger's equation: 
 \begin_inset Formula $i\hbar\partial\psi/\partial t=-(\hbar^{2}/2m)\nabla^{2}\psi+V\psi$
 \end_inset
 
@@ -747,7 +760,7 @@ name "fig:Experimentally-observed-average"
 
 \end_inset
 
-The wavefunction goes through both slits, and interferes to create the pattern.
+The wavefunction goes through both slits and interferes to create the pattern.
  If one of the slits is blocked, then since the wavefunction can't interfere,
  the pattern is lost as expected.
  We haven't spoken about measuring the particle yet, but if one notes that
@@ -887,7 +900,7 @@ where
 \end_inset
 
 , viz.
- a Gaussian wavepacket centered at 
+ a Gaussian wavepacket centred at 
 \begin_inset Formula $q_{x0}$
 \end_inset
 
@@ -1006,12 +1019,12 @@ Note that
 \end_inset
 
 , then we can predict precisely where the particle will turn up.
- Infact, one can accomplish this with essentially no calculation.
+ In fact, one can accomplish this with essentially no calculation.
  Since 
 \begin_inset Formula $\dot{q}_{x}=\nabla S/m$
 \end_inset
 
-, a single valued function, it follows that trajectories of particles won't
+, a single-valued function, it follows that trajectories of particles won't
  intersect, where recall that 
 \begin_inset Formula $S$
 \end_inset
@@ -1027,7 +1040,7 @@ Note that
 
 , must follow the `up' trajectory, else by symmetry, the trajectories will
  have to intersect.
- We conclude therefore, that if 
+ We conclude, therefore, that if 
 \begin_inset Formula $q_{x}>0$
 \end_inset
 
@@ -1045,8 +1058,8 @@ Note that
 
 .
  This appears very clear and intuitive.
- A non-intuitive aspect of this, is that we can't associate spins with particles
-, even though we can predict precisely, the outcome of the experiment.
+ A non-intuitive aspect of this is that we can't associate spins with particles,
+ even though we can predict precisely, the outcome of the experiment.
  This is manifested by the observation that if 
 \begin_inset Formula $H_{\text{int}}\to-H_{\text{int}}$
 \end_inset
@@ -1071,7 +1084,7 @@ Note that
 \end_inset
 
 .
- We have thus demonstrated that we can't associate spin uniquely to a particle,
+ We have thus demonstrated that we can't associate spin uniquely to a particle
  and that it must only be associated with the wavefunction 
 \begin_inset CommandInset citation
 LatexCommand cite
@@ -1112,7 +1125,7 @@ name "sec:Determinism-The-GHZ"
 \end_layout
 
 \begin_layout Standard
-One drawback of Bell's test, was that it's statistical in nature.
+One drawback of Bell's test was its statistical in nature.
  The GHZ test 
 \begin_inset CommandInset citation
 LatexCommand cite
@@ -1122,7 +1135,7 @@ key "GHZ"
 
 , takes this a step further and shows that one can't even conceive of having
  pre-defined values.
- The construction requires three observers with one particles each.
+ The construction requires three observers with one particle each.
  Each observer can measure two properties, 
 \begin_inset Formula $X$
 \end_inset
@@ -1294,7 +1307,7 @@ name "sec:Contextuality:-The-Peres"
 \end_layout
 
 \begin_layout Standard
-There've been various developments, of which the simplest, with effectively
+There have been various developments, of which the simplest, with effectively
  the same consequence, is discussed: the Peres Mermin test 
 \begin_inset CommandInset citation
 LatexCommand cite
@@ -1409,7 +1422,7 @@ ion relation,
  assignments must be even.
  We have arrived at a contradiction and therefore we conclude that our assumptio
 n that operators have predefined values, must be wrong.
- One can infact construct the following inequality 
+ One can in fact construct the following inequality 
 \begin_inset Formula 
 \[
 \left\langle \hat{\chi}_{\text{PM}}\right\rangle =\left\langle \hat{R}_{1}\right\rangle +\left\langle \hat{R}_{2}\right\rangle +\left\langle \hat{R}_{3}\right\rangle +\left\langle \hat{C}_{1}\right\rangle +\left\langle \hat{C}_{2}\right\rangle -\left\langle \hat{C}_{3}\right\rangle \le4,
@@ -1434,7 +1447,7 @@ if it is assumed that operators have predefined values.
 \end_inset
 
  at best.
- Ofcourse, according to QM 
+ Of course, according to QM 
 \begin_inset Formula $\left\langle \hat{\chi}_{\text{PM}}\right\rangle =6\nleq4$
 \end_inset
 

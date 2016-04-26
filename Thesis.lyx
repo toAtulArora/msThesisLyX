@@ -21,7 +21,7 @@
 
 %TO HELP PROOF READING | DISABLE FOR FINAL VERSION
 \usepackage[pagewise]{lineno}
-\linenumbers
+%\linenumbers
 
 \newcommand*\patchAmsMathEnvironmentForLineno[1]{%
   \expandafter\let\csname old#1\expandafter\endcsname\csname #1\endcsname
@@ -62,12 +62,12 @@
 \dept{Department of Physical Sciences}
 \university{Indian Institute of Science Education and Research, Mohali}
 \crest{\includegraphics[width=0.25\textwidth]{Figs/IISER_Mohali_Logo_2014}}
-\degree{BS-MS (Dual Degree in Science)}
+\degree{BS-MS (dual degree in Science)}
 \college{IISER Mohali}
 \degreedate{April 22, 2016}
 \guide{Prof. Arvind}
 \guidedeclare{In my capacity as the supervisor of the candidate's project work, I certify that the aforesaid statements by the candidate are true to the best of my knowledge.}
-\panela{Dr. Abhishek Choudhuri}
+\panela{Dr. Abhishek Chaudhuri}
 \panelb{Dr. Kamal P. Singh}
 \certificatetext{This is to certify that the dissertation titled \textbf{\@title{}}, submitted by \textbf{\@authorprefix{} \@author{}} (Registration Number: \@regno{}) for the partial fulfilment of the BS-MS dual degree programme of the \@university{}, has been examined by the thesis committee duly appointed by the institute. The committee finds the work done by the candidate satisfactory and recommends that the report be accepted.}
 \end_preamble
@@ -550,6 +550,13 @@ LatexCommand tableofcontents
 \begin_layout Standard
 \begin_inset FloatList figure
 
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
 \end_inset
 
 

@@ -94,8 +94,8 @@ reference "sec:Multiplicativity"
 \end_inset
 
 .
- We will use our understanding from multiplicativity, to investigate it's
- relationship between entanglement, locality and superposition.
+ We will use our understanding from multiplicativity, to investigate its
+ relationship between entanglement, locality, and superposition.
  
 \end_layout
 
@@ -317,7 +317,7 @@ ty.
 \end_layout
 
 \begin_layout Standard
-As a remark, it maybe added that in case of the Bell Test, entanglement
+As a remark, it may be added that in the case of the Bell Test, entanglement
  is needed to show one of the three assumptions is wrong.
  This is so because it can be shown that entanglement is necessary to arrive
  at a violation of the inequality.
@@ -576,8 +576,8 @@ Cryptography using contextuality
 Interesting collaborative progress was made in developing certain cryptography
  protocols using contextuality, with Jaskaran and Kishor, who primarily
  constructed the schemes.
- A well known idea is to use entanglement to facilitate secure sharing of
- keys, where the security assurance comes from the monogomy of Bell's inequality
+ A well-known idea is to use entanglement to facilitate secure sharing of
+ keys, where the security assurance comes from the monogamy of Bell's inequality
  violations.
  An analogue of this idea was used, where the contextuality inequalities
  are used in place of Bell's and it was found that the said method is encouragin
@@ -608,9 +608,9 @@ Imagine there are two particles, one with person A, and the other with person
 
 .
  Now comes the interesting part.
- The protocol they follow, is as follows.
+ The protocol they follow is as follows.
  Say A uses this setup, only to receive signals.
- If B wants to send a signal to A, all that he needs to do, is to disturb
+ If B wants to send a signal to A, all that he needs to do is to disturb
  his particle at 
 \begin_inset Formula $t$
 \end_inset
@@ -618,7 +618,7 @@ Imagine there are two particles, one with person A, and the other with person
 .
  This would cause some change in, either the wavefunction or the position,
  or both, of the particle, compared to if B had not caused any disturbance.
- Now A measures her particle's position at 
+ Now, A measures her particle's position at 
 \begin_inset Formula $t+\epsilon$
 \end_inset
 
@@ -644,7 +644,7 @@ Imagine there are two particles, one with person A, and the other with person
 
 , then she knows nothing was sent.
  Since the equations are non-local, this interaction is instantaneous, and
- in principle faster than speed of light.
+ in principle faster than the speed of light.
 \begin_inset Newline newline
 \end_inset
 
@@ -667,7 +667,7 @@ Ofcourse, one can fill in the details, which is what I almost started doing,
 
 .
  Now we can imagine a gaussian associated with this, as the wavefunction,
- after collapse.
+ after the collapse.
  Since the de-Broglie Bohm theory ensures that the probability distribution
  
 \begin_inset Formula $\left|\psi\right|^{2}$
@@ -681,9 +681,9 @@ Ofcourse, one can fill in the details, which is what I almost started doing,
 \begin_inset Formula $\delta q$
 \end_inset
 
- will increase (in case of free evolution), effectively destroying `position
+ will increase (in the case of free evolution), effectively destroying `position
  information'.
- The idea can only be harnessed, if one can somehow decouple the uncertainty
+ The idea can only be harnessed if one can somehow decouple the uncertainty
  in 
 \begin_inset Formula $q$
 \end_inset

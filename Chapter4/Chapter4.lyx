@@ -92,7 +92,7 @@ Rationale
 In principle, we have achieved what we set out to; we were able to understand
  how BM explains PM, a test of contextuality.
  Having clarified various concepts through the heavy machinery of BM, here
- we attempt to further our understanding, without using BM.
+ we attempt to further our understanding without using BM.
  We will start with refining the assumptions of the PM test.
  We will see how, when one of the assumptions is refined, one version holds
  for QM.
@@ -105,8 +105,8 @@ In principle, we have achieved what we set out to; we were able to understand
  We then generalize this toy model to produce statistics consistent with
  QM, for an arbitrary, but discrete Hilbert space.
  Finally, we generalize this to continuous variables (without spins) and
- obtain a consistent one dimensional completion of QM.
- Its relation with other known completions (BM & RS) are also discussed.
+ obtain a consistent one-dimensional completion of QM.
+ Its relation with other known completions (BM & RS) is also discussed.
  This model aims to facilitate easy value assignments in case of the phase
  space versions of determinism and contextuality tests.
  These are hard to compute from BM and RS.
@@ -150,7 +150,7 @@ reference "sec:Peres-Mermin-Revisited"
 \end_inset
 
  encodes the sequence of measurements.
- If we assume non invasiveness, then multiplicativity has a clear meaning;
+ If we assume non-invasiveness, then multiplicativity has a clear meaning;
  
 \end_layout
 
@@ -201,7 +201,7 @@ Here we have generalized the notion from simply a product to any arbitrary
 \begin_inset Formula $m$
 \end_inset
 
-, since in this case, the sequence of a measurement is irrelevant.
+ since in this case, the sequence of a measurement is irrelevant.
  If one relaxes the no-disturbance assumption, then the following also becomes
  a possibility.
 \end_layout
@@ -299,9 +299,9 @@ reference "eq:multiplicativity"
 
 \end_inset
 
-, since it only yields probabilities.
- Further, a measurement in QM leads to disturbance, unless ofcourse we consider
- simultaneous eigenstates.
+ since it only yields probabilities.
+ Further, a measurement in QM leads to disturbance, unless of course we
+ consider simultaneous eigenstates.
  Therefore, after making a measurement, say 
 \begin_inset Formula $m_{1}(\hat{B}_{1})$
 \end_inset
@@ -373,7 +373,7 @@ s, it is impossible to obtain
 \begin_inset Formula $\hat{C}$
 \end_inset
 
-, the measurement outcome is the certain.
+, the measurement outcome is certain.
  Thus, taking the same state 
 \begin_inset Formula $\left|\chi\right\rangle $
 \end_inset
@@ -709,12 +709,12 @@ m_{1}(\hat{A}_{ij})=m_{2}(\hat{A}_{ij})\doteq\left[\begin{array}{ccc}
 The reader can convince her(him)self that the assignments are indeed consistent,
  regardless of which row/column is measured.
  There are two remarks which need to be made.
- First, note this model is not multiplicative, since 
+ First, note this model is not multiplicative since 
 \begin_inset Formula $m_{1}(\hat{A}_{33})m_{1}(\hat{A}_{23})m_{1}(\hat{A}_{13})=1\neq m_{1}(\hat{C})=-1$
 \end_inset
 
 , by construction.
- Second observe that the value assigned to the observables, depends explicitly
+ Second, observe that the value assigned to the observables, depends explicitly
  on the context, thus the model is contextual.
  
 \end_layout
@@ -837,7 +837,7 @@ for convenience.
 \begin_inset Newline newline
 \end_inset
 
-So far the model has only predicted the outcomes of measurements.
+So far, the model has only predicted the outcomes of measurements.
  If however, a measurement is made on the system, then although we know
  the result from the predictions, we must update the state 
 \begin_inset Formula $\left|\psi\right\rangle $
@@ -950,7 +950,7 @@ non
 \end_inset
 
 .
- According to step 4, since 
+ According to step 4 since 
 \begin_inset Formula $\left|00\right\rangle $
 \end_inset
 
@@ -1050,7 +1050,7 @@ where
 \begin_inset Formula $\left|p_{-}\right\rangle $
 \end_inset
 
-, since 
+ since 
 \begin_inset Formula $c=-1$
 \end_inset
 
@@ -1160,7 +1160,7 @@ For the final iteration,
 
 , to be consistent.
  Let's check that.
- According to step 3, since 
+ According to step 3 since 
 \begin_inset Formula $\hat{\sigma}_{x}\otimes\hat{\sigma}_{x}\left(\left|00\right\rangle +\left|11\right\rangle \right)/\sqrt{2}=1\left(\left|00\right\rangle +\left|11\right\rangle \right)/\sqrt{2}$
 \end_inset
 
@@ -1355,14 +1355,14 @@ To see how this works, we restrict ourselves to a single spin case.
 \end_layout
 
 \begin_layout Standard
-We can clearly see that the assignment is non-contextual, since given an
+We can clearly see that the assignment is non-contextual since given an
  operator and a state (+ the hidden variable), the value is uniquely assigned.
  The assignment is non-multiplicative, because this scheme when applied
  to the PM situation, becomes effectively the same as the toy model (barring
  the statistics).
  We have already seen explicitly that the toy-model non-multiplicative.
- The theory is ofcourse invasive, for the state is updated after each measuremen
-t.
+ The theory is, of course, invasive as the state is updated after each measureme
+nt.
 \end_layout
 
 \begin_layout Subsection
@@ -1501,8 +1501,8 @@ and the initial state is given by a Gaussian.
 \end_inset
 
 , the particle's location would've moved with the Gaussian as expected.
- Infact this is a general feature and can be done for all observables, including
- 
+ In fact, this is a general feature and can be done for all observables,
+ including 
 \begin_inset Formula $p$
 \end_inset
 
@@ -1518,7 +1518,7 @@ Reasoning similar to the previous subsection entails that this theory is
 
 \end_inset
 
-The theory is explicitly non-contextual, since values are uniquely assigned
+The theory is explicitly non-contextual since values are uniquely assigned
  to operators, given 
 \begin_inset Formula $\psi$
 \end_inset
@@ -1616,7 +1616,7 @@ Let
 \begin_inset Formula $x,t$
 \end_inset
 
-, since we know how 
+ since we know how 
 \begin_inset Formula $x$
 \end_inset
 
@@ -1738,7 +1738,7 @@ An equation similarly for
 \end_inset
 
  can be obtained and an appropriate dynamics can perhaps then be constructed.
- It maybe mentioned as a remark that, quite independent of it's motivation,
+ It may be mentioned as a remark that, quite independent of its motivation,
  this scheme can be used to compute Bohmian trajectories.
  It is much more efficient, as is apparent from a comparison of the resources
  required between computing an integral and the steps listed in 
@@ -1766,9 +1766,9 @@ t with QM.
 \end_layout
 
 \begin_layout Standard
-The approach is to take some compatible observables, and to construct a
- `super-operator', a measurement of which can yield the values of all of
- these compatible observables in a single shot.
+The approach is to take some compatible observables and to construct a `super-op
+erator', a measurement of which can yield the values of all of these compatible
+ observables in a single shot.
  We would see then, that the in-principle measurement outcome of observing
  these compatible operators, would not be consistent.
  Now this one might treat as contextuality, but according to the definition
@@ -1965,7 +1965,7 @@ Denouement
 \end_layout
 
 \begin_layout Standard
-We have already learnt that the proof of `contextuality', infact requires
+We have already learnt that the proof of `contextuality', in fact requires
  three assumptions, (1) multiplicativity, (2) non-contextuality and (3)
  non-invasiveness.
  Here we were able to construct an explicit non-contextual theory (for spins)
@@ -1976,9 +1976,10 @@ We have already learnt that the proof of `contextuality', infact requires
  can't be consistent with QM.
  We also showed how the theory might be misconstrued to be contextual and
  provided a clarification.
- This is of interest because the contextuality arising in BM from the measuremen
-t schemes, has been a source of confusion about the said notion, arising
- in the PM situation.
+ This is of interest because, in BM, contextuality can arise from two sources,
+ one is the PM situation and second is the measurement process.
+ These two usually get misconstrued and have engendered confusion about
+ the said notion.
 \end_layout
 
 \end_body

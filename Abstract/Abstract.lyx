@@ -77,11 +77,11 @@ The Copenhagen Interpretation of Quantum Mechanics (QM) asserts that the
  There exists a completion of QM, known as Bohmian Mechanics (BM), which
  replaces this fuzziness with precision, and re-introduces notions of physical
  trajectories.
- Various interesting questions arise, solely by existence of such a description;
- doesn't it contradict the uncertainty principle, for instance.
+ Various interesting questions arise, solely by the existence of such a
+ description; doesn't it contradict the uncertainty principle, for instance.
  Most of these questions were found to have been addressed satisfactorily
  in the literature.
- There was however, one question, whose answer has become the subject of
+ There was, however, one question, whose answer has become the subject of
  the thesis; that of the paradoxical co-existence of contextuality and BM.
  In a theory that can predict the value of operators, the value an operator
  takes, must depend on the state of the system (including hidden variables).
@@ -94,7 +94,7 @@ The Copenhagen Interpretation of Quantum Mechanics (QM) asserts that the
 
 \begin_layout abstract
 After various attempts we were able to show, that the notion of contextuality
- is infact not necessary.
+ is in fact not necessary.
  This was achieved by identifying another `classical property' and constructing
  a non-contextual toy-model, serving as a counter-example to the impossibility
  proof.
